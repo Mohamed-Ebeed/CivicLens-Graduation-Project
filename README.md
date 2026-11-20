@@ -1,2 +1,3 @@
-# Nabd-Graduation-Project
-Nabd is an assistive communication platform designed to help stroke patients communicate their needs and interact with caregivers
+# CivicLens – Graduation Project
+
+**CivicLens is a Smart Urban Issue Detection & Management Platform designed to help citizens report urban problems and enable responsible authorities to manage, analyze, and resolve them efficiently using Artificial Intelligence and Geographic Information Systems (GIS).**
